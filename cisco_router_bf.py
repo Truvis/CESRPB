@@ -1,20 +1,5 @@
 # 
-# = Cisco Enable Secret Router Password Bruteforce = 
-# Wrote this script after finding cisco devices listening 
-# on telnet on the public internet during routing 
-# pentesting engagements against clients.
-# 
-# EXAMPLE:
-# 	python cisco_router_bf.py -r 1.2.3.4 -f passwords.txt -n HOST -v no
-#
-# VERSION:
-# 	1 - POC - it works
-# 
-# Truvis Thornton
-# 	https://linkedin.com/in/truvisthornton
-# 	https://github.com/truvis/ 
-#	https://twitter.com/thattechkitten
-# ==============================================================
+#==============================================================
 
 import pexpect
 import sys
