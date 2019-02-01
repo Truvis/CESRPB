@@ -13,7 +13,7 @@
 # Truvis Thornton
 # 	https://linkedin.com/in/truvisthornton
 # 	https://github.com/truvis/ 
-#	  https://twitter.com/thattechkitten
+#	https://twitter.com/thattechkitten
 # ==============================================================
 
 import pexpect
